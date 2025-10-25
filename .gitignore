@@ -1,0 +1,17 @@
+# Ignorar node_modules y archivos de entorno
+node_modules/
+.env
+# Ignorar archivos de entorno de ejemplo
+env/
+example.env
+# Ignorar archivos de log
+yarn-error.log
+npm-debug.log
+# Ignorar directorios de build
+dist/
+build/
+# Ignorar archivos de configuración de Vite
+vite.config.js
+# Ignorar archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
