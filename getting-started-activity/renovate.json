@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["react", "react-dom"],
+      "enabled": true,
+      "groupName": "React"
+    },
+    {
+      "matchPackageNames": ["express"],
+      "enabled": true,
+      "groupName": "Express"
+    }
+  ],
+  "schedule": [
+    "every weekend"
+  ],
+  "automerge": true,
+  "automergeType": "pr"
+}

@@ -1,0 +1,7 @@
+JavaScript
+// Este archivo lista las dependencias necesarias para el proyecto de JuegoDiscord.
+// Asegúrate de actualizarlo según las dependencias que utilices en tu proyecto.
+
+dependency1
+dependency2
+dependency3

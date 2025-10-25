@@ -1,0 +1,1 @@
+// Este archivo es parte del framework del juego.
